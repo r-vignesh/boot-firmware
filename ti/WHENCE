@@ -1,0 +1,151 @@
+Driver: ti-sci - TI SCI driver for K3 devices
+
+File: ti-sysfw/ti-fs-firmware-j7200-gp.bin
+File: ti-sysfw/ti-fs-firmware-j7200-hs-fs-cert.bin
+File: ti-sysfw/ti-fs-firmware-j7200-hs-fs-enc.bin
+File: ti-sysfw/ti-fs-firmware-j7200_sr2-hs-fs-cert.bin
+File: ti-sysfw/ti-fs-firmware-j7200_sr2-hs-fs-enc.bin
+File: ti-sysfw/ti-fs-firmware-j721e-gp.bin
+File: ti-sysfw/ti-fs-firmware-j721e-hs-cert.bin
+File: ti-sysfw/ti-fs-firmware-j721e-hs-enc.bin
+File: ti-sysfw/ti-fs-firmware-j721e-hs-fs-cert.bin
+File: ti-sysfw/ti-fs-firmware-j721e-hs-fs-enc.bin
+File: ti-sysfw/ti-fs-firmware-j721e_sr1_1-hs-cert.bin
+File: ti-sysfw/ti-fs-firmware-j721e_sr1_1-hs-enc.bin
+File: ti-sysfw/ti-fs-firmware-j721e_sr1_1-hs-fs-cert.bin
+File: ti-sysfw/ti-fs-firmware-j721e_sr1_1-hs-fs-enc.bin
+File: ti-sysfw/ti-fs-firmware-j721e_sr2-hs-cert.bin
+File: ti-sysfw/ti-fs-firmware-j721e_sr2-hs-enc.bin
+File: ti-sysfw/ti-fs-firmware-j721e_sr2-hs-fs-cert.bin
+File: ti-sysfw/ti-fs-firmware-j721e_sr2-hs-fs-enc.bin
+Version: v11.00.09
+
+File: ti-sysfw/ti-fs-firmware-j7200_sr2-hs-cert.bin
+File: ti-sysfw/ti-fs-firmware-j7200_sr2-hs-enc.bin
+File: ti-sysfw/ti-fs-firmware-j7200-hs-cert.bin
+File: ti-sysfw/ti-fs-firmware-j7200-hs-enc.bin
+Version: v11.00.09
+
+File: ti-sysfw/ti-fs-firmware-j721s2-gp.bin
+File: ti-sysfw/ti-fs-firmware-j721s2-hs-cert.bin
+File: ti-sysfw/ti-fs-firmware-j721s2-hs-enc.bin
+File: ti-sysfw/ti-fs-firmware-j721s2-hs-fs-cert.bin
+File: ti-sysfw/ti-fs-firmware-j721s2-hs-fs-enc.bin
+File: ti-sysfw/ti-fs-firmware-j784s4-gp.bin
+File: ti-sysfw/ti-fs-firmware-j784s4-hs-cert.bin
+File: ti-sysfw/ti-fs-firmware-j784s4-hs-enc.bin
+File: ti-sysfw/ti-fs-firmware-j784s4-hs-fs-cert.bin
+File: ti-sysfw/ti-fs-firmware-j784s4-hs-fs-enc.bin
+Version: v11.00.09
+
+File: ti-sysfw/ti-fs-firmware-j722s-hs-fs-cert.bin
+File: ti-sysfw/ti-fs-firmware-j722s-hs-fs-enc.bin
+File: ti-sysfw/ti-fs-firmware-j722s-hs-cert.bin
+File: ti-sysfw/ti-fs-firmware-j722s-hs-enc.bin
+Version: v11.00.09
+
+File: ti-sysfw/ti-fs-firmware-j742s2-hs-fs-cert.bin
+File: ti-sysfw/ti-fs-firmware-j742s2-hs-fs-enc.bin
+File: ti-sysfw/ti-fs-firmware-j742s2-hs-cert.bin
+File: ti-sysfw/ti-fs-firmware-j742s2-hs-enc.bin
+Version: v11.00.09
+
+File: ti-sysfw/ti-sci-firmware-am64x-gp.bin
+File: ti-sysfw/ti-sci-firmware-am64x-hs-cert.bin
+File: ti-sysfw/ti-sci-firmware-am64x-hs-enc.bin
+File: ti-sysfw/ti-sci-firmware-am64x_sr2-hs-cert.bin
+File: ti-sysfw/ti-sci-firmware-am64x_sr2-hs-enc.bin
+File: ti-sysfw/ti-sci-firmware-am64x_sr2-hs-fs-cert.bin
+File: ti-sysfw/ti-sci-firmware-am64x_sr2-hs-fs-enc.bin
+Version: v11.00.07
+
+File: ti-sysfw/ti-fs-stub-firmware-am62ax-gp.bin
+Version: v11.00.02
+
+File: ti-sysfw/ti-fs-stub-firmware-am62x-gp.bin
+Version: v11.00.02
+
+File: ti-sysfw/ti-fs-stub-firmware-am62ax-hs-cert.bin
+File: ti-sysfw/ti-fs-stub-firmware-am62ax-hs-enc.bin
+File: ti-sysfw/ti-fs-stub-firmware-am62px-hs-cert.bin
+File: ti-sysfw/ti-fs-stub-firmware-am62px-hs-enc.bin
+File: ti-sysfw/ti-fs-stub-firmware-am62x-hs-cert.bin
+File: ti-sysfw/ti-fs-stub-firmware-am62x-hs-enc.bin
+File: ti-sysfw/ti-fs-firmware-am62x-gp.bin
+File: ti-sysfw/ti-fs-firmware-am62x-hs-cert.bin
+File: ti-sysfw/ti-fs-firmware-am62x-hs-enc.bin
+File: ti-sysfw/ti-fs-firmware-am62x-hs-fs-cert.bin
+File: ti-sysfw/ti-fs-firmware-am62x-hs-fs-enc.bin
+File: ti-sysfw/ti-fs-firmware-am62ax-gp.bin
+File: ti-sysfw/ti-fs-firmware-am62ax-hs-cert.bin
+File: ti-sysfw/ti-fs-firmware-am62ax-hs-enc.bin
+File: ti-sysfw/ti-fs-firmware-am62ax-hs-fs-cert.bin
+File: ti-sysfw/ti-fs-firmware-am62ax-hs-fs-enc.bin
+File: ti-sysfw/ti-fs-firmware-am62px-hs-fs-cert.bin
+File: ti-sysfw/ti-fs-firmware-am62px-hs-fs-enc.bin
+File: ti-sysfw/ti-fs-firmware-am62px-hs-cert.bin
+File: ti-sysfw/ti-fs-firmware-am62px-hs-enc.bin
+File: ti-sysfw/ti-sci-firmware-am65x-gp.bin
+File: ti-sysfw/ti-sci-firmware-am65x-hs-cert.bin
+File: ti-sysfw/ti-sci-firmware-am65x-hs-enc.bin
+File: ti-sysfw/ti-sci-firmware-am65x_sr2-gp.bin
+File: ti-sysfw/ti-sci-firmware-am65x_sr2-hs-cert.bin
+File: ti-sysfw/ti-sci-firmware-am65x_sr2-hs-enc.bin
+Version: v11.00.07
+
+File: ti-sysfw/ti-fs-firmware-am62lx-hs-fs-cert.bin
+File: ti-sysfw/ti-fs-firmware-am62lx-hs-fs-enc.bin
+Version: v11.00.07
+
+Licence: Redistributable. See LICENSE.ti for details.
+
+-------------------------------------------------------------------------
+
+Firmware: ti-hsm - HSM Demo Firmware for K3 devices
+
+File: ti-hsm/hsm-demo-firmware-j721s2-gp.bin
+File: ti-hsm/hsm-demo-firmware-j721s2-hs.bin
+File: ti-hsm/hsm-demo-firmware-j721s2-hs-fs.bin
+File: ti-hsm/hsm-demo-firmware-j784s4-gp.bin
+File: ti-hsm/hsm-demo-firmware-j784s4-hs.bin
+File: ti-hsm/hsm-demo-firmware-j784s4-hs-fs.bin
+Version: v11.00.09
+
+Licence: Redistributable. See LICENSE.ti for details.
+
+--------------------------------------------------------------------------
+
+Driver: ti-dm - TI Device Manager (DM) firmware for K3 devices
+
+File: ti-dm/j7200/ipc_echo_testb_mcu1_0_release_strip.xer5f
+File: ti-dm/j721e/ipc_echo_testb_mcu1_0_release_strip.xer5f
+Version: 11.00.00.02
+
+File: ti-dm/j784s4/ipc_echo_testb_mcu1_0_release_strip.xer5f
+Version: 11.00.00.02
+
+File: ti-dm/j721s2/ipc_echo_testb_mcu1_0_release_strip.xer5f
+Version: 11.00.00.02
+
+File: ti-dm/j722s/ipc_echo_testb_mcu1_0_release_strip.xer5f
+Version: 11.00.00.05
+
+File: ti-dm/j742s2/ipc_echo_testb_mcu1_0_release_strip.xer5f
+Version: 11.00.00.02
+
+File: ti-dm/am62xx/ipc_echo_testb_mcu1_0_release_strip.xer5f
+Version: 11.00.00.06
+
+File: ti-dm/am62axx/ipc_echo_testb_mcu1_0_release_strip.xer5f
+Version: 11.00.00.06
+
+File: ti-dm/am62pxx/ipc_echo_testb_mcu1_0_release_strip.xer5f
+Version: 11.00.00.06
+
+File: ti-dm/am62pxx/dss_display_share.wkup-r5f0_0.release.strip.out
+Version: 11.00.00.09
+
+Licence: Redistributable. See LICENSE.ti for details.
+
+--------------------------------------------------------------------------
+
