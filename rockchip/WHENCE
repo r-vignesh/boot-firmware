@@ -1,0 +1,43 @@
+ddr-firmwares/
+└── rk35
+    ├── rk3506b_ddr_750MHz_rt_v1.05.bin
+    ├── rk3506b_ddr_750MHz_v1.05.bin
+    ├── rk3506_ddr_750MHz_rt_v1.05.bin
+    ├── rk3506_ddr_750MHz_v1.05.bin
+    ├── rk3528_ddr_1056MHz_2L_PCB_eyescan_v1.10.bin
+    ├── rk3528_ddr_1056MHz_2L_PCB_v1.10.bin
+    ├── rk3528_ddr_1056MHz_4BIT_PCB_eyescan_v1.10.bin
+    ├── rk3528_ddr_1056MHz_4BIT_PCB_v1.10.bin
+    ├── rk3528_ddr_1056MHz_eyescan_v1.10.bin
+    ├── rk3528_ddr_1056MHz_v1.10.bin
+    ├── rk3562_ddr_1056MHz_ultra_v1.06.bin
+    ├── rk3562_ddr_1056MHz_v1.07.bin
+    ├── rk3562_ddr_1332MHz_D3_LP3_eyescan_v1.07.bin
+    ├── rk3562_ddr_1332MHz_D4_LP4_4x_eyescan_v1.07.bin
+    ├── rk3562_ddr_1332MHz_v1.07.bin
+    ├── rk3562_ddr_1392MHz_v1.07.bin
+    ├── rk3562_ddr_1560MHz_v1.07.bin
+    ├── rk3562_ddr_920MHz_v1.07.bin
+    ├── rk3566_ddr_1056MHz_D3_LP3_eyescan_v1.23.bin
+    ├── rk3566_ddr_1056MHz_D4_LP4_4x_eyescan_v1.23.bin
+    ├── rk3566_ddr_1056MHz_ultra_v1.20.bin
+    ├── rk3566_ddr_1056MHz_v1.23.bin
+    ├── rk3566_ddr_528MHz_ultra_v1.10.bin
+    ├── rk3566_ddr_780MHz_ultra_v1.10.bin
+    ├── rk3566_ddr_920MHz_ultra_v1.10.bin
+    ├── rk3566_ddr_920MHz_v1.23.bin
+    ├── rk3568_ddr_1056MHz_D3_LP3_eyescan_v1.23.bin
+    ├── rk3568_ddr_1056MHz_v1.23.bin
+    ├── rk3568_ddr_1332MHz_v1.23.bin
+    ├── rk3568_ddr_1560MHz_D4_LP4_4x_eyescan_v1.23.bin
+    ├── rk3568_ddr_1560MHz_v1.23.bin
+    ├── rk3568_ddr_920MHz_v1.23.bin
+    ├── rk3576_ddr_lp4_2112MHz_lp5_2736MHz_eyescan_v1.09.bin
+    ├── rk3576_ddr_lp4_2112MHz_lp5_2736MHz_ultra_v1.09.bin
+    ├── rk3576_ddr_lp4_2112MHz_lp5_2736MHz_v1.09.bin
+    ├── rk3583_ddr_lp4_1848MHz_lp5_2112MHz_v1.18.bin
+    ├── rk3588_ddr_lp4_2112MHz_lp5_2400MHz_v1.18.bin
+    └── rk3588_ddr_lp4_2112MHz_lp5_2736MHz_eyescan_v1.11.bin
+
+Licence: Redistributable. See LICENSE.rockchip for details.
+
